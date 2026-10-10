@@ -31,4 +31,4 @@ A Python application using local LLMs via **Ollama** and **Pydantic** for struct
    ```
 
 ## Usage
-Run `python main.py` and ask a conversational question when prompted.
+Run `python src/main.py` and ask a conversational question when prompted.
